@@ -1,6 +1,13 @@
 # Übungsblatt: Struktur von Java-Programmen
 [Link to English version](./README_en.md)
 
+> [!TIP]
+> 💡 **Im Browser arbeiten**
+>
+> [![In GitHub Codespaces öffnen](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new)
+>
+> Wählt nach dem Klick unter **Repository** euer eigenes Repository aus (der Name endet auf euren GitHub-Benutzernamen), nicht die Vorlage. Alternativ öffnet ihr euer Repository auf GitHub und wählt **Code → Codespaces → Create codespace on main**. Wie ihr lokal arbeitet und die Tests startet, steht in [TESTEN.md](./TESTEN.md).
+
 In diesem Übungsblatt lernen Sie, die Struktur von einfachen Java-Programmen zu lesen und zu verstehen.
 
 ## Übung: Ein einfaches Java-Programm implementieren
